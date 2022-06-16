@@ -1,0 +1,40 @@
+/* comoon */
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;    
+}
+
+/* header */
+.hero {
+    background-image: url(./images/austin-distel-wawEfYdpkag-unsplash\ \(2\)/austin-distel-wawEfYdpkag-unsplash.png);
+    background-size: cover;
+    background-position:center;
+} 
+.event {
+    box-shadow: 0px 3px 6px #00000029;
+}
+.event img {
+    width: 100%;
+}
+.bottun {
+    width:310px ;
+    height: 52px;
+    box-shadow: 0px 3px 6px #00000029;
+    margin: 60px 0;
+    color: black;
+} 
+.fin {
+    background-image:url(./images/tim-bogdanov-4uojMEdcwI8-unsplash/tim-bogdanov-4uojMEdcwI8-unsplash.png);
+    background-size: cover;
+    background-position:  center;
+    color: white;
+}
+.contact {
+    width: 210px;
+    height:54px ;
+    border: 1px solid white;
+    color: white;
+    border-radius: 5px;
+}
